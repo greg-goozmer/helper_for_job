@@ -1,0 +1,111 @@
+{
+  "project": "helper_for_job",
+  "updated": "2026-10-23",
+  "stage": "checkpoint-1",
+  "documents": [
+    {
+      "path": "README.md",
+      "status": "active"
+    },
+    {
+      "path": "AGENTS.md",
+      "status": "active"
+    },
+    {
+      "path": "STATUS.md",
+      "status": "active"
+    },
+    {
+      "path": "CHANGE_HISTORY.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/README.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Product/README.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Product/01-context.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Product/02-users-and-scenarios.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Product/03-requirements.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Product/04-interface-and-behavior.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Product/05-rules-and-data-meaning.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Tech/README.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Tech/01-architecture.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Tech/02-running.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Tech/03-data.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Tech/04-api-and-access.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Tech/05-verification.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Tech/WORKSPACE_MAP.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Service/README.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Service/decisions.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Service/sources.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Service/checkpoint-1.md",
+      "status": "active"
+    },
+    {
+      "path": "code/backend/README.md",
+      "status": "active"
+    },
+    {
+      "path": "code/data/README.md",
+      "status": "active"
+    },
+    {
+      "path": "code/benchmark/README.md",
+      "status": "active"
+    },
+    {
+      "path": "docs/Service/verification.md",
+      "status": "active"
+    }
+  ]
+}
