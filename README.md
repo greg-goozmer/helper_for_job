@@ -63,7 +63,7 @@ helper_for_job/
     └── benchmark/      план измерения качества retrieval
 ```
 
-Документация следует структуре [minecraft-mod-picker](https://github.com/rowapepe/minecraft-mod-picker); код и содержание написаны для Interview Assistant. [Карта документации](docs/README.md) · [Источники](docs/Service/sources.md).
+[Карта документации](docs/README.md) · [Источники](docs/Service/sources.md).
 
 ## Текущее состояние
 
