@@ -3,7 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "type": "module",
-  "description": "Интерактивный прототип Interview Assistant для КТ1",
+  "description": "Interview Assistant — подготовка к собеседованиям",
   "engines": { "node": ">=20" },
   "scripts": {
     "dev": "node ../scripts/serve.mjs",
